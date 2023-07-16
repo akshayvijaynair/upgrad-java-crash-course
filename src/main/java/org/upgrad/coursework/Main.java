@@ -25,6 +25,8 @@ public class Main {
         isValueInRange();
         LampButton inheritanceTrial = new LampButton();
 
+        // Day 3
+
     }
 
     private static void squareSum() {

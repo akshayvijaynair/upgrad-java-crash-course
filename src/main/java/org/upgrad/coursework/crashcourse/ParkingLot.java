@@ -1,4 +1,4 @@
-package org.upgrad.coursework;
+package org.upgrad.coursework.crashcourse;
 
 /**
  *  General interview question for Low level Design (LLD)

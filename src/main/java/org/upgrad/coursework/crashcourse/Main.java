@@ -1,6 +1,5 @@
-package org.upgrad.coursework;
+package org.upgrad.coursework.crashcourse;
 
-import java.awt.print.Book;
 import java.util.Scanner;
 
 public class Main {
@@ -26,6 +25,7 @@ public class Main {
         LampButton inheritanceTrial = new LampButton();
 
         // Day 3
+
 
     }
 

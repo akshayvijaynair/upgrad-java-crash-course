@@ -1,4 +1,4 @@
-package org.upgrad.coursework;
+package org.upgrad.coursework.crashcourse;
 
 public class Computer {
 

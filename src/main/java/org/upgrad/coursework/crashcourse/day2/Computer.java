@@ -1,4 +1,4 @@
-package org.upgrad.coursework.crashcourse;
+package org.upgrad.coursework.crashcourse.day2;
 
 public class Computer {
 
@@ -6,11 +6,11 @@ public class Computer {
     String model;
     String cpu;
 
-    Computer() {
+    public Computer() {
 
     }
 
-    Computer( String os, String model, String cpu){
+    public Computer(String os, String model, String cpu){
 
     }
 

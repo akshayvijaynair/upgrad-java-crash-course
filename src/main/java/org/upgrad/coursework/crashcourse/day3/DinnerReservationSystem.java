@@ -1,4 +1,4 @@
-package org.upgrad.coursework.crashcourse;
+package org.upgrad.coursework.crashcourse.day3;
 
 /**
  * Expected Outcomes:

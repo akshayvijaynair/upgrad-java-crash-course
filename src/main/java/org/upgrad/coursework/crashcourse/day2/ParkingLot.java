@@ -1,4 +1,4 @@
-package org.upgrad.coursework.crashcourse;
+package org.upgrad.coursework.crashcourse.day2;
 
 /**
  *  @Note General interview question for Low level Design (LLD)
@@ -16,7 +16,7 @@ public class ParkingLot {
     int occupiedSlots;
     int parkingCharges;
 
-    ParkingLot(int[] slots, int occupiedSlots){
+    public ParkingLot(int[] slots, int occupiedSlots){
         this.occupiedSlots = occupiedSlots;
         this.slots = slots;
     }

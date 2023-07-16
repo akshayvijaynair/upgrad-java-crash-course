@@ -1,5 +1,10 @@
 package org.upgrad.coursework.crashcourse;
 
+import org.upgrad.coursework.crashcourse.day2.BookMyShow;
+import org.upgrad.coursework.crashcourse.day2.Computer;
+import org.upgrad.coursework.crashcourse.day2.LampButton;
+import org.upgrad.coursework.crashcourse.day2.ParkingLot;
+
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,4 @@
-package org.upgrad.coursework.crashcourse;
+package org.upgrad.coursework.crashcourse.day2;
 
 public class BookMyShow {
 

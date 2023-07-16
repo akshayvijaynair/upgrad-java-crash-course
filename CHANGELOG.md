@@ -18,13 +18,32 @@
 ## July 9, 2023 | Java Crash Course Day 2
 ### Summary
 - Went over the concepts for objects, classes, and functions
+- OOP Basics: Encapsulation, Inheritance
 ### Concepts covered:
-- Classes
-- Objects
+- Encapsulation
+  - Classes | *class* keyword
+  - Objects
 - Low level design
 - Inheritance
+  - Base class | *extends* keyword
 
 ## July 15, 2023 | Java Crash Course Day 3
 ### Summary
-- 
+- OOP basics: Abstraction, Polymorphism
+- Exception handling
 ### Concepts covered:
+  - Interface
+  - Difference between classes and interfaces
+    - Class can only extend one other class, but classes implement several interfaces
+    - How are they linked?
+      - Interfaces - What we want to do? | *interface* keyword
+      - Classes - How we want to do it? | *implements* keyword 
+
+## July 16, 2023 | Java Crash Course Day 4
+### Summary
+ - Collections framework
+   - ArrayList
+   - List
+   - Hash Map
+   - Hash Set
+### Concepts covered

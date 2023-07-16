@@ -42,8 +42,10 @@
 ## July 16, 2023 | Java Crash Course Day 4
 ### Summary
  - Collections framework
-   - ArrayList
-   - List
-   - Hash Map
-   - Hash Set
 ### Concepts covered
+   - Node
+   - LinkedList
+   - Introduced to generics, did not explain
+   - ArrayList
+   - Sets => HashSet, LinkedHashSet, TreeSet
+   - Maps => HashMap, LinkedHashMap, TreeMap

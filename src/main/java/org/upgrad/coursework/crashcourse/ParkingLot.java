@@ -1,7 +1,14 @@
 package org.upgrad.coursework.crashcourse;
 
 /**
- *  General interview question for Low level Design (LLD)
+ *  @Note General interview question for Low level Design (LLD)
+ *
+ *  @ExpectedOutcomes Questions that the interviewer is trying to gauge:
+ *   1. Is the dev able to identify classes, it's attributes, objects, and functions
+ *   2. Is the dev able to identify interaction between objects
+ *   3. Is the design loosely coupled? (able to change without radical rework)
+ *
+ * TODO -> Missed a bunch. Rework this solution into something that satisfies the above
  */
 public class ParkingLot {
 
@@ -28,12 +35,3 @@ public class ParkingLot {
         }
     }
 }
-
-/**
- *   Questions that the interviewer is trying to guage:
- *  1. Is the dev able to identify classes, it's attributes, objects, and functions
- * 2. Is the dev able to identify interaction between objects
- * 3. Is the design loosely coupled? (able to change without radical rework)
- *
- * Missed a bunch. Rework this solution into something that satisfies the above
- */

@@ -1,9 +1,9 @@
-package org.upgrad.coursework.crashcourse;
+package org.upgrad.livelessons.crashcourse;
 
-import org.upgrad.coursework.crashcourse.day2.BookMyShow;
-import org.upgrad.coursework.crashcourse.day2.Computer;
-import org.upgrad.coursework.crashcourse.day2.LampButton;
-import org.upgrad.coursework.crashcourse.day2.ParkingLot;
+import org.upgrad.livelessons.crashcourse.day2.BookMyShow;
+import org.upgrad.livelessons.crashcourse.day2.Computer;
+import org.upgrad.livelessons.crashcourse.day2.LampButton;
+import org.upgrad.livelessons.crashcourse.day2.ParkingLot;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.upgrad.coursework.crashcourse.day2;
+package org.upgrad.livelessons.crashcourse.day2;
 
 /**
  *  @Note General interview question for Low level Design (LLD)

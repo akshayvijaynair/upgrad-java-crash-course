@@ -16,3 +16,4 @@ Covers the basics of JAVA and OOP concepts in an eight-hour crash course.
 - M2: Arithmetic operations
 - M2: User input
 - M2: Casting
+- M2: Strings

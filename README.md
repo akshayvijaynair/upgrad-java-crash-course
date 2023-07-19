@@ -14,3 +14,4 @@ Covers the basics of JAVA and OOP concepts in an eight-hour crash course.
 - M2: Variables
 - M2: Data types 
 - M2: Arithmetic operations
+- M2: User input

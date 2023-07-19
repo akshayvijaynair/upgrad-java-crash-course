@@ -8,6 +8,15 @@ public class PatternRecognition {
 
     public static void main(String[] args){
         System.out.println(findTotalNumberOfBalls(7));
+        int a = 5;
+
+        int b = 4;
+
+        int c = 3;
+
+        double z = (a + b - c) / a * b;
+
+        System.out.println(z);
     }
     public static int findTotalNumberOfBalls(int layers) {
         int totalNumberOfBalls = 0;

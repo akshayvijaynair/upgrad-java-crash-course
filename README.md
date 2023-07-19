@@ -12,3 +12,5 @@ Covers the basics of JAVA and OOP concepts in an eight-hour crash course.
 - M1: Details how to install Java in a laptop
 - M1: Details the process of installing an IDE
 - M2: Variables
+- M2: Data types 
+- M2: Arithmetic operations

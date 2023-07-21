@@ -8,16 +8,22 @@ Covers the basics of JAVA and OOP concepts in an eight-hour crash course.
  - *JDK:* 15
 
 ## Course 1
-- M1: Goes over the program structure and rules
-- M1: Details how to install Java in a laptop
-- M1: Details the process of installing an IDE
-- M2: Variables
-- M2: Data types 
-- M2: Arithmetic operations
-- M2: User input
-- M2: Casting
-- M2: Strings
-- M2: Arrays
-- M2: Logical operators and their precedence of operation
-- M2: Comments
-- M2: Errors and debugging
+### Module 1: Basics
+  - Goes over the program structure and rules
+  - Details how to install Java in a laptop
+  - Details the process of installing an IDE
+
+### Module 2: Syntax fundamentals
+  - Variables
+  - Data types 
+  - Arithmetic operations
+  - User input
+  - Casting
+  - Strings
+  - Arrays
+  - Logical operators and their precedence of operation
+  - Comments
+  - Errors and debugging 
+  
+### Module 3: Conditionals, Loops, & Functions
+  - If-else

@@ -27,3 +27,4 @@ Covers the basics of JAVA and OOP concepts in an eight-hour crash course.
   
 ### Module 3: Conditionals, Loops, & Functions
   - If-else
+  - Switch case statements

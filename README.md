@@ -19,3 +19,5 @@ Covers the basics of JAVA and OOP concepts in an eight-hour crash course.
 - M2: Strings
 - M2: Arrays
 - M2: Logical operators and their precedence of operation
+- M2: Comments
+- M2: Errors and debugging

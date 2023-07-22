@@ -1,4 +1,4 @@
-package org.upgrad.coursework.course_1.Module_3;
+package org.upgrad.coursework.course_1.Module_3.problems;
 
 import java.util.Scanner;
 

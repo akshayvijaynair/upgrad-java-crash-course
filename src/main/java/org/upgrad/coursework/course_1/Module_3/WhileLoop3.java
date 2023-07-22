@@ -1,3 +1,5 @@
+package org.upgrad.coursework.course_1.Module_3;
+
 public class WhileLoop3 {
     public static void main(String[] args) {
 

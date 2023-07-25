@@ -30,3 +30,12 @@ Covers the basics of JAVA and OOP concepts in an eight-hour crash course.
   - Switch case statements
   - break and continue statements
   - Loops - while,for, do-while
+
+### Module 4: Functions
+  - Functions types
+  - Reading files and outputting to files
+  - Using internal libraries
+  - Pass by value
+  - Pass by reference
+  - Exceptions and exception handling
+  - Errors

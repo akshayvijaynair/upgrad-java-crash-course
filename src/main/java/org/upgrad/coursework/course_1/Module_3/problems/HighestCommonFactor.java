@@ -18,25 +18,36 @@ public class HighestCommonFactor {
         // Enter number 2 in the Input Console
         int num2 = scan.nextInt();
 
-        int hcf = 1;
+        System.out.println("Highest Common Factor: "+hcf(num1, num2));
+        System.out.println("Least Common Multiple: "+lcm(num1, num2));
+        scan.close();
+    }
+
+    //Write HCF function here
+    private static int hcf(int num1, int num2){
+        int hcfValue = 1;
         // Write logic
         if(num1 < num2){
             for(int i = num1; i>0; i--){
                 if(num2 % i == 0  && num1 % i == 0){
-                    hcf = i;
+                    hcfValue = i;
                     break;
                 }
             }
         } else {
             for(int i = num2; i>0; i--){
                 if(num2 % i == 0  && num1 % i == 0){
-                    hcf = i;
+                    hcfValue = i;
                     break;
                 }
             }
         }
-
-        System.out.print(hcf);
-        scan.close();
+        return hcfValue;
     }
+
+    // Write the LCM function here
+    private static int lcm(int number1, int number2){
+        return (number1*number2)/hcf(number1, number2);
+    }
+
 }

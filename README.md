@@ -1,5 +1,13 @@
 # Upgrad Java Course
 
+⚠️ This repo is not fully functional right now. It houses the coursework examples and code samples from the live classes. The files are all writted as standalone programs and therfore throw errors mostly around package naming and file name duplication.
+
+📓 This collection of programs all cover the basics of modern Java programming. It goes over the basics of the syntax and the program structure without getting into too much detail. 
+
+<p align="center">
+ Reference to what needs to be added post the course: https://roadmap.sh/java
+</p>
+
 ## Crash Course
 Covers the basics of JAVA and OOP concepts in an eight-hour crash course.
  - *Instructor:* Chandresh Pancholi
